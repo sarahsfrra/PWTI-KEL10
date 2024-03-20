@@ -1,4 +1,5 @@
-# ✨ KELOMPOK 10: PEMROGRAMAN WEB DAN TEKNOLOGI INTERNET ✨
+# ✨ KELOMPOK 10 PWTI ✨
+Mata Kuliah Pemrograman Web dan Teknologi Internet
 
 KELOMPOK 10: 
 1. Sarah Safira Millati – 225150600111028
